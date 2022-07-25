@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Form1 from './Components/Form';
 import Bmiscore from './Components/Bmiscore';
 import Bmilist from './Components/Bmilist';
